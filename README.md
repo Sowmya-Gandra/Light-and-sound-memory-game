@@ -24,9 +24,7 @@ The following **required** functionality is complete:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![my project app](C:\Users\STSC\Desktop\prework.gif)
-
-![Detailed view](C:\Users\STSC\Desktop\prework1.gif)
+![prework](https://user-images.githubusercontent.com/63092943/112120350-5c420180-8b7b-11eb-9c03-395546373752.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 

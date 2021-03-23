@@ -26,6 +26,9 @@ The following **required** functionality is complete:
 Here's a walkthrough of implemented user stories:
 ![prework](https://user-images.githubusercontent.com/63092943/112120350-5c420180-8b7b-11eb-9c03-395546373752.gif)
 
+![prework1](https://user-images.githubusercontent.com/63092943/112120860-df635780-8b7b-11eb-807f-14a9bc363128.gif)
+
+
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 No,I just did on my own and some of the part just followed the instructions in the project
